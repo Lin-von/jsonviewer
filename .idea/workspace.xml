@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3133b79b-b6f3-4aa8-9b83-286d97b6b588" name="Default Changelist" comment="调整样式">
+      <change beforePath="$PROJECT_DIR$/array.gif" beforeDir="false" afterPath="$PROJECT_DIR$/array.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/blue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/css/ext-gray-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/css/ext-gray-all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/corners-blue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/corners-blue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/corners.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/corners.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/l-blue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/l-blue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/l.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/l.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/r-blue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/r-blue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/r.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/r.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/tb-blue.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/tb-blue.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/box/tb.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/box/tb.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/button/btn-arrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/button/btn-arrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/button/btn-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/button/btn-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/dd/drop-add.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/dd/drop-add.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/dd/drop-no.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/dd/drop-no.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/dd/drop-yes.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/dd/drop-yes.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/editor/tb-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/editor/tb-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/checkbox.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/checkbox.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/clear-trigger.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/clear-trigger.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/date-trigger.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/date-trigger.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/error-tip-corners.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/error-tip-corners.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/exclamation.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/exclamation.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/radio.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/radio.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/search-trigger.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/search-trigger.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/text-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/text-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/form/trigger.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/form/trigger.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/col-move-bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/col-move-bottom.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/col-move-top.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/col-move-top.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/columns.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/columns.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/dirty.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/dirty.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid-blue-split.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid-blue-split.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid-hrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid-hrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid-split.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid-split.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid3-hd-btn.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid3-hd-btn.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid3-hrow-over.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid3-hrow-over.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid3-hrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid3-hrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid3-special-col-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid3-special-col-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/grid3-special-col-sel-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/grid3-special-col-sel-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/group-by.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/group-by.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/group-expand-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/group-expand-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/hd-pop.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/hd-pop.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-asc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-asc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-desc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-desc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-lock.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-lock.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-unlock.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/hmenu-unlock.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/invalid_line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/invalid_line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/mso-hd.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/mso-hd.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-first-disabled.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-first-disabled.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-first.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-first.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-last-disabled.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-last-disabled.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-last.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-last.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-next-disabled.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-next-disabled.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-next.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-next.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-prev-disabled.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-prev-disabled.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/page-prev.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/page-prev.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/refresh.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/refresh.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/row-check-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/row-check-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/row-expand-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/row-expand-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/row-over.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/row-over.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/sort_asc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/sort_asc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/grid/sort_desc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/grid/sort_desc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/layout/mini-bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/layout/mini-bottom.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/layout/mini-left.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/layout/mini-left.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/layout/mini-right.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/layout/mini-right.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/layout/mini-top.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/layout/mini-top.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/layout/panel-title-light-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/layout/panel-title-light-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/menu/checked.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/menu/checked.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/menu/group-checked.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/menu/group-checked.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/menu/item-over.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/menu/item-over.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/menu/menu-parent.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/menu/menu-parent.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/menu/menu.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/menu/menu.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/menu/unchecked.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/menu/unchecked.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/panel/corners-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/panel/corners-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/panel/left-right.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/panel/left-right.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/panel/light-hd.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/panel/light-hd.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/panel/tool-sprites.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/panel/tool-sprites.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/panel/top-bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/panel/top-bottom.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/panel/white-top-bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/panel/white-top-bottom.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/progress/progress-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/progress/progress-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/qtip/bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/qtip/bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/qtip/close.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/qtip/close.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/qtip/tip-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/qtip/tip-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/s.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/s.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shadow-c.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shadow-c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shadow-lr.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shadow-lr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shadow.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shadow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shared/glass-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shared/glass-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shared/hd-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shared/hd-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shared/left-btn.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shared/left-btn.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shared/loading-balls.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shared/loading-balls.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shared/right-btn.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shared/right-btn.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/shared/warning.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/shared/warning.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/sizer/e-handle.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/sizer/e-handle.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/sizer/ne-handle.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/sizer/ne-handle.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/sizer/nw-handle.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/sizer/nw-handle.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/sizer/s-handle.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/sizer/s-handle.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/sizer/se-handle.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/sizer/se-handle.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/sizer/sw-handle.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/sizer/sw-handle.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/slider/slider-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/slider/slider-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/slider/slider-thumb.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/slider/slider-thumb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/slider/slider-v-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/slider/slider-v-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/slider/slider-v-thumb.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/slider/slider-v-thumb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/scroll-left.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/scroll-left.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/scroll-right.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/scroll-right.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-inactive-left-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-inactive-left-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-inactive-right-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-inactive-right-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-left-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-left-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-right-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tab-btm-right-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tab-close.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tab-close.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tab-strip-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tab-strip-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tab-strip-btm-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tab-strip-btm-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tabs/tabs-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tabs/tabs-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/toolbar/bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/toolbar/bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/toolbar/btn-arrow-light.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/toolbar/btn-arrow-light.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/toolbar/btn-arrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/toolbar/btn-arrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/toolbar/tb-btn-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/toolbar/tb-btn-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/arrows.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/arrows.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/drop-add.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/drop-add.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/drop-between.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/drop-between.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/drop-over.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/drop-over.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/drop-under.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/drop-under.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-minus-nl.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-minus-nl.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-minus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-minus.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-plus-nl.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-plus-nl.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-plus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end-plus.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-end.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-minus-nl.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-minus-nl.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-minus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-minus.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-plus-nl.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-plus-nl.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow-plus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow-plus.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/elbow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/elbow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/folder-open.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/folder-open.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/folder.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/folder.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/leaf.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/leaf.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/tree/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/tree/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/icon-error.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/icon-error.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/icon-info.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/icon-info.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/icon-question.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/icon-question.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/icon-warning.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/icon-warning.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/left-corners.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/left-corners.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/left-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/left-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/right-corners.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/right-corners.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/default/window/top-bottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/default/window/top-bottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/button/btn-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/button/btn-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/panel/corners-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/panel/corners-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/panel/left-right.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/panel/left-right.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/panel/light-hd.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/panel/light-hd.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/panel/tool-sprites.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/panel/tool-sprites.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/panel/top-bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/panel/top-bottom.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/panel/white-top-bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/panel/white-top-bottom.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/qtip/tip-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/qtip/tip-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/scroll-left.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/scroll-left.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/scroll-right.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/scroll-right.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-inactive-left-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-inactive-left-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-inactive-right-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-inactive-right-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-left-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-left-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-right-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-btm-right-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-close.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-close.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-strip-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-strip-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-strip-btm-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tab-strip-btm-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/tabs/tabs-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/tabs/tabs-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/toolbar/bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/toolbar/bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/toolbar/btn-arrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/toolbar/btn-arrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/toolbar/tb-btn-sprite.gif" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/toolbar/tb-btn-sprite.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/window/left-corners.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/window/left-corners.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/window/left-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/window/left-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/window/right-corners.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/window/right-corners.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extjs/images/gray/window/top-bottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/extjs/images/gray/window/top-bottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green.gif" beforeDir="false" afterPath="$PROJECT_DIR$/green.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/array.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/array.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/number.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/number.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/object.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/object.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/string.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/string.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/value.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/value.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsonviewer-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsonviewer-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object.gif" beforeDir="false" afterPath="$PROJECT_DIR$/object.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/red.gif" beforeDir="false" afterPath="$PROJECT_DIR$/red.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yellow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/yellow.gif" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jsonviewer-all.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="28444" column="97" selection-start-line="28444" selection-start-column="97" selection-end-line="28444" selection-end-column="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extjs/css/ext-gray-all.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setActiveTab</find>
+      <find>edit</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/show.php" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/jsonviewer-all.js" />
+        <option value="$PROJECT_DIR$/jsonreader.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/jsonviewer.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="95" />
+    <option name="width" value="1324" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jsonviewer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonviewer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonviewer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonviewer" type="462c0819:PsiDirectoryNode" />
+              <item name="extjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonviewer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonviewer" type="462c0819:PsiDirectoryNode" />
+              <item name="extjs" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsonviewer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsonviewer" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HIDE_INHERITED_FROM_OBJECT" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3133b79b-b6f3-4aa8-9b83-286d97b6b588" name="Default Changelist" comment="" />
+      <created>1560351187882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560351187882</updated>
+      <workItem from="1560351189039" duration="9280000" />
+      <workItem from="1560441990254" duration="670000" />
+      <workItem from="1560442751875" duration="1345000" />
+      <workItem from="1560870868530" duration="287000" />
+      <workItem from="1560871223346" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11491000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49518716" visible="true" weight="0.2039072" />
+      <window_info id="Structure" order="1" sideWeight="0.50481284" side_tool="true" visible="true" weight="0.2039072" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="调整样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整样式" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/show.php" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yellow.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extjs/css/ext-gray-all.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonreader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsonviewer-all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="28444" column="97" selection-start-line="28444" selection-start-column="97" selection-end-line="28444" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

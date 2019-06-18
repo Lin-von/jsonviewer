@@ -28078,6 +28078,8 @@ Ext.onReady(function () {
             }
         }
     }();
+
+
     Ext.BLANK_IMAGE_URL = "extjs/images/default/s.gif";
     Ext.QuickTips.init();
     var c = new Ext.KeyMap(document, [{
@@ -28142,7 +28144,7 @@ Ext.onReady(function () {
                         })).showAt(c.getXY())
                     }
                 },
-                bbar: ["Search:", new Ext.form.TextField({
+                tbar: ["Search:", new Ext.form.TextField({
                     xtype: "textfield",
                     id: "searchTextField"
                 }), new Ext.Button({
@@ -28153,43 +28155,122 @@ Ext.onReady(function () {
                     id: "searchResultLabel",
                     style: "padding-left:10px;font-weight:bold"
                 }), {
-                    iconCls: Ext.ux.iconCls.get("arrow_down.png"), text: "Next", handler: function () {
+                     text: "Next", handler: function () {
                         f.searchNext()
                     }
                 }, {
-                    iconCls: Ext.ux.iconCls.get("arrow_up.png"), text: "Previous", handler: function () {
+                     text: "Previous", handler: function () {
                         f.searchPrevious()
                     }
                 }]
             },
                 d]
         };
+    /*var genderStore = new Ext.data.JsonStore({
+        proxy: new Ext.data.HttpProxy({
+            method: "POST",
+            url: "<%=request.getContextPath()%>/tHarvestTableSdep.do?invoke=listTplMapDsForJson"
+        }),
+        //root和fields需和后台获取json格式一致   
+        root: "data",
+        fields:['dataPath','datasourceName'],
+        id:"departmentStore"
+    });*/
+    var popStore = new Ext.data.JsonStore({
+        proxy: new Ext.data.HttpProxy({
+            method: "GET",
+            url: "jsonreader.php?opr=listPop",
+        }),
+        //autoLoad:true,
+        //root和fields需和后台获取json格式一致   
+        root: "data",
+        fields:['name', 'id'],
+
+    });
+
+
+    var confStore = new Ext.data.JsonStore({
+        proxy: new Ext.data.HttpProxy({
+            method: "GET",
+            url: "jsonreader.php?opr=listConf&zone=",
+        }),
+        //autoLoad:true,
+        //root和fields需和后台获取json格式一致   
+        root: "data",
+        fields:['name'],
+
+    });
+
+
+    popStore.load();
     new Ext.Viewport({
         layout: "border", items: [d, {
             id: "textPanel", layout: "form", title: "Text", region:"west", width:300,labelWidth:60, items: [{
-                id: "chConf",
-                fieldLabel : "配置文件",
-                xtype: "combo",
-                emptyText:'---请选择---',
-                store: ['Red', 'Yellow', 'Green', 'Brown', 'Blue', 'Pink', 'Black'],
-                selectOnFocus : true,
-                editable : false,
-                displayField: 'name',
-                triggerAction : "all",
-                style: "margin-bottom: 20px;",
-            }, {
                 id: "chPop",
                 fieldLabel : "执行节点",
                 xtype: "combo",
                 emptyText:'---请选择---',
-                store: ['Red', 'Yellow', 'Green', 'Brown', 'Blue', 'Pink', 'Black'],
+                store: popStore,
                 selectOnFocus : true,
+                hiddenName:'poplist',
+                //展示数据
+                displayField : 'name',
+                //option的value
+                valueField : 'id',
+
                 editable : false,
                 triggerAction : "all",
+                //style: "margin-bottom: 20px;",
+                listeners:{
+                    'select':function(arg){
+                        //获取选中下拉框的value
+                        url = "jsonreader.php?opr=listConf&zone=" + Ext.getCmp("chPop").getValue();
+                        confStore.proxy = new Ext.data.HttpProxy({url:url});
+                        //alert(Ext.getCmp("chPop").getValue());
+                        confStore.reload();
+                    }
+                }
+
 
             },{
+                id: "chConf",
+                fieldLabel : "配置文件",
+                xtype: "combo",
+                emptyText:'---请选择---',
+                store: confStore,
+                selectOnFocus : true,
+                editable : false,
+                displayField : 'name',
+                //option的value
+                valueField : 'name',
+                triggerAction : "all",
+                //style: "margin-bottom: 20px;",
+                listeners:{
+                    'expand':function(arg){
+                        //获取选中下拉框的value
+                        chedpop = Ext.getCmp("chPop").getValue();
+                        if (chedpop === "") {
+                            alert("请先选择执行节点！");
+                            Ext.getCmp("chConf").collapse();
+                        }
+                    }
+                }
+            }, {
                 id: "onQuery",
-                xtype: "button", style: "width:300px",
+                xtype: "button",
+                style: "margin:30px 0 0 100px;",
+                cls: "x-panel-text-icon",
+                text: "查询",
+                handler: function () {
+                    chedpop = Ext.getCmp("chPop").getValue();
+                    if (chedpop === "") {
+                        alert("请选择执行节点和配置文件");
+                        return;
+                    }
+                    f.clearText();
+                    c.enable();
+                    f.loadJson();
+                }
             },]
         }, {
             id: "textPaneal", layout: "fit", title: "Texzt", region:"east", width:0, items: [{
@@ -28356,16 +28437,21 @@ Ext.onReady(function () {
                 }
                 a.setValue(c.join(""))
             }, loadJson: function (a) {
-                if (document.location.hash !== "#" + a) document.location.hash = a;
-                Ext.getBody().mask("Loading url: " + a, "x-mask-loading");
+                //if (document.location.hash !== "#" + a) document.location.hash = a;
+                Ext.getBody().mask("Loading ...");
+                var zone = Ext.getCmp("chPop").getValue();
+                var conf = Ext.getCmp("chConf").getValue();
                 Ext.Ajax.request({
-                    url: "show.php", params: {url: a}, success: function (a) {
+                    url: "jsonreader.php?opr=query&zone=" + zone +"&conf=" + conf, method: "GET", success: function (a) {
+                        //alert(a.responseText);
                         Ext.getCmp("edit").setValue(a.responseText);
                         f.format();
-                        Ext.getBody().unmask()
+                        Ext.getBody().unmask();
+                        f.check();
+                        c.enable();
                     }, failure: function (a) {
                         Ext.Msg.alert("Error", a.responseText);
-                        Ext.getBody().unmask()
+                        Ext.getBody().unmask();
                     }
                 })
             }
